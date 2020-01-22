@@ -138,4 +138,4 @@ Besides that Spring features:
 ![Database realtional diagram](./img/database_relational_diagram.png)
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
