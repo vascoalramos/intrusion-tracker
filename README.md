@@ -136,3 +136,6 @@ Besides that Spring features:
 * Due to the fact that there are many relations we want to define between our entities and that, as we were thinking about the document's structures, we realized they'd turn out too big with too many nested documents we ultimately decided to end up using MySQL.
 
 ![Database realtional diagram](./img/database_relational_diagram.png)
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
