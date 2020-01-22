@@ -5,12 +5,12 @@
 
 The main idea behind the project is to implement a system capable of logging all accesses to a company building and capable of performing the right action when confronted with a strange access.
   
-## Main roles
+## Main roles (Contributors)
 
-* **Product Owner:** Diogo Silva
-* **Team Manager:** Vasco Ramos
-* **Architect:** Tiago Mendes
-* **DevOps Master:** João Vasconcelos
+* **Product Owner:** [Diogo Silva](https://github.com/HerouFenix)
+* **Team Manager:** [Vasco Ramos](https://github.com/vascoalramos)
+* **Architect:** [Tiago Mendes](https://github.com/tiagocmendes)
+* **DevOps Master:** [João Vasconcelos](https://github.com/jmnmv12)
 
 
 ## Backlog Management
