@@ -76,52 +76,6 @@ The chosen Git platform is GitLab and all the version control.
 * If a employee has revoked access to a specific room and tries to access it more than 3 times, an alert is sent (to the CEO and to the employee, so he can verify the alert).
 * We are going to use a "Suspect algorithm" to identify suspect employees.
 
-  
-
-## Prototypes
-
-### Main Page
-![Prototype - Main Page](https://i.imgur.com/lIzXjDS.jpg)
-
-### Analytics
-
-#### General Access
-![Prototype - Analytics - General Access](https://i.imgur.com/rCGej94.jpg)
-
-### General Real-Time Access 
-![Prototype - General Access Logs](https://i.imgur.com/iyyBOHU.jpg)
-
-#### Room Access
-![Prototype - Analytics - Room Access](https://i.imgur.com/iZduigH.jpg)
-
-#### Hotmap
-![Prototype - Analytics - Hotmap](https://i.imgur.com/qZCzRUs.jpg)
-
-### Rooms
-
-#### Room Access
-![Prototype - Rooms - Room accesses ](https://i.imgur.com/zUnpan7.jpg)
-
-#### Room Booking
-![Prototype - Rooms - Room booking](https://i.imgur.com/zUnpan7.jpg)
-
-#### Modal to Book Room
-![Prototype - Rooms - Modal to book room ](https://i.imgur.com/rZxlSPX.jpg)
-
-### Notifications
-
-#### Notifications Log
-![Prototype - Notifications - Notifications log ](https://i.imgur.com/1mgkegn.jpg)
-
-#### Details Modal
-![Prototype - Notifications - Details Modal ](https://i.imgur.com/b7NlBq8.jpg)
-
-There is some inconsistency in some of the elements of the prototype specially in the navbar, in some prototypes it's designed like a top navbar and in others it's designed like a side navbar. We did this to test the best way to implement the navbar component and we ended up deciding to implement a side navbar for the main features  (Rooms,History,Employees,...) and a top navbar to access the profile and notifications.
-
-### General Real-Time Access
-![Prototype - General - Real-Time Access](https://i.imgur.com/iyyBOHU.jpg)
-
-
 
 ## Architecture
 
