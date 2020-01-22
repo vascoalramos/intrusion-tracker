@@ -3,7 +3,7 @@
 
 ## Idea
 
-The main idea behind the project is to implement a system capable of logging all accesses to a company building and capable of performing the right action when confronted with a strange access.
+This project is a product of a practical assignement of one of our classes: [Introduction to Software Engineering](https://www.ua.pt/en/uc/12288) and the main idea behind it is to implement a system capable of logging all accesses to a company building and capable of performing the right action when confronted with a strange access.
   
 ## Main roles (Contributors)
 
