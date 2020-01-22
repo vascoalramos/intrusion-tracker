@@ -22,7 +22,7 @@ Jira Project: [Jira - Intrusion Tracker](https://intrusiontracker.atlassian.net/
 
 ## Git Platform
 
-The chosen Git platform is GitLab and all the version control.
+The chosen Git platform is [GitLab](https://about.gitlab.com/) and all the version control.
 
 ### Git Standards
 * For each new feature create a new branch.
